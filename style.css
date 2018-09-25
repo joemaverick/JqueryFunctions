@@ -1,0 +1,53 @@
+.container{
+	background-color:blue;
+	width:970px;
+	height:800px;
+	display: inline-block;
+}
+.hideShowBox{
+	width:970px;
+	height:100px;
+	background-color:red;
+	display: inline-block;
+}
+.slideBox{
+	width:970px;
+	height:100px;
+	background-color:navy;
+	display: inline-block;
+}
+.toggle{
+	width:970px;
+	height:100px;
+	background-color:white;
+	display: inline-block;
+}
+.fade{
+	width:970px;
+	height:100px;
+	background-color:orange;
+	display: inline-block;
+}
+.beforeAfter{
+	width:970px;
+	height:100px;
+	background-color:yellow;
+	display: inline-block;
+}.addClassAppend{
+	width:970px;
+	height:100px;
+	background-color:pink;
+	display: inline-block;
+}
+}.htmlText{
+	width:970px;
+	height:100px;
+	background-color:pink;
+	display: inline-block;
+}
+}.AttrVal{
+	width:970px;
+	height:100px;
+	background-color:pink;
+	display: inline-block;
+}
